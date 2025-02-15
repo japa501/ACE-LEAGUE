@@ -1,0 +1,16 @@
+{
+    "name": "campeonato-valorant",
+    "version": "1.0.0",
+    "description": "Site para Campeonato de Valorant",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "engines": {
+      "node": "16.x"
+    }
+  }
+  
